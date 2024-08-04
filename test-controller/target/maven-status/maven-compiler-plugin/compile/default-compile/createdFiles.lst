@@ -1,0 +1,6 @@
+ro\itschool\testcontroller\controller\ResponsePayload.class
+ro\itschool\testcontroller\controller\UserController.class
+ro\itschool\testcontroller\model\User.class
+ro\itschool\testcontroller\model\User$UserBuilder.class
+ro\itschool\testcontroller\TestControllerApplication.class
+ro\itschool\testcontroller\service\UserService.class
